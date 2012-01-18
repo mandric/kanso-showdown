@@ -37,8 +37,8 @@ kanso push http://localhost:5984/example
 
 ## Docs
 
-A good place to start is the original showdown package's readme bundled in
-`packages/showdown/showdown/README.md`.
+A good place to start is the showdown readme bundled in the package as
+`showdown/README.md`.
 
 ## Maintenance 
 
